@@ -34,7 +34,7 @@
 
 # 📖 Leaderboard Project <a name="about-project"></a>
 
-**Leaderboard website** website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external [Leaderboard API service](https://microverse.notion.site/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3). 
+**Leaderboard website** displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external [Leaderboard API service](https://microverse.notion.site/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3). 
 
 ## 🛠 Built With <a name="built-with"></a>
 - [x] HTML
